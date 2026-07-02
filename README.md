@@ -46,9 +46,9 @@ Implementation of:
 * Cost analysis of network infrastructure
 
 # Repository Structure
-│── README.md
-│──Report 1.pdf
-│── Report 2.pdf
+* │── README.md
+* │──Report 1.pdf
+* │── Report 2.pdf
 
 # Concepts Covered
 * LAN Design
