@@ -52,7 +52,6 @@ Computer-Network-Projects/
 │── CN_Project1.pdf
 │── CN_Project2.pdf
 
-
 # Concepts Covered
 * LAN Design
 * WAN Design
@@ -62,5 +61,4 @@ Computer-Network-Projects/
 * Subnetting
 * Network Security
 * Router Configuration
-Computer Engineering Student
-Vishwakarma University, Pune
+
