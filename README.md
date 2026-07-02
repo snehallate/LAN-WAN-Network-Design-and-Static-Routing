@@ -1,4 +1,4 @@
-# LAN-WAN-Network-Design-and-Static-Routing
+# LAN WAN Network Design and Static Routing
 
 # Computer Network Projects
 
