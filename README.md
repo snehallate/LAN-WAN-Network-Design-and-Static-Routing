@@ -1,5 +1,5 @@
 # LAN WAN Network Design and Static Routing
-Repository Link: 
+Repository Link: https://github.com/snehallate/LAN-WAN-Network-Design-and-Static-Routing
 
 # Computer Network Projects
 
