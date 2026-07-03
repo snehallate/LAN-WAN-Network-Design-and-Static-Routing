@@ -54,6 +54,10 @@ Implementation of:
 * │──Report 1.pdf
 * │── Report 2.pdf
 
+# Output
+<img width="2000" height="2827" alt="image" src="https://github.com/user-attachments/assets/66e68973-925e-442a-bc04-dd7d852dddcb" />
+
+
 # Concepts Covered
 * LAN Design
 * WAN Design
