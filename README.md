@@ -17,6 +17,10 @@ Design and implementation of a Local Area Network (LAN) including:
 * Network security
 * Cost estimation
 
+# Output
+<img width="2000" height="2827" alt="image" src="https://github.com/user-attachments/assets/5e3abc88-6b98-4774-a76a-6fb528c04774" />
+
+
 # Project 2: Static Routing Implementation
 
 Implementation of:
