@@ -55,7 +55,7 @@ Implementation of:
 * │── Report 2.pdf
 
 # Output
-<img width="2000" height="2827" alt="image" src="https://github.com/user-attachments/assets/66e68973-925e-442a-bc04-dd7d852dddcb" />
+<img width="1003" height="641" alt="image" src="https://github.com/user-attachments/assets/495daced-7b97-4d79-92ed-a231ec84eb71" />
 
 
 # Concepts Covered
